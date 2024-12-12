@@ -1,0 +1,16 @@
+FluidServer .fsl File, 1.0
+
+;This is comment!
+;Go to github.com/fluidserver/fsl
+
+;Lines with : at the beggining are sections,
+;but they are ignored and used for organization.
+
+:FluidServer
+Port=1618
+Database=~/.fluidserver/dbs/main.db
+SwaggerVersion=3
+
+:POS
+BackgroundType=Default
+BackgroundImage=~/.fluidserver/pos/image.png
