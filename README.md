@@ -3,7 +3,8 @@
 <h1 align="center"><img src="logo.png" width="30px" alt="Icon" title="Icon">.fsl Parser</h1>
 
 <p align="center">
-<img src="https://img.shields.io/github/license/FluidServer/fsl" alt="License" title="License" >
+<img src="https://img.shields.io/badge/license-MIT-green" alt="License" title="License" >
+<img src="https://img.shields.io/badge/license-Apache-blue" alt="License" title="License" >
 </p>
 
 </p>
